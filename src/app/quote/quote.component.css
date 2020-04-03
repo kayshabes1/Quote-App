@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-size: 80px;
+    
+}
+.row{
+    text-align: center;
+}
+.jumbotron{
+    background-color: grey;
+    font-family: fantasy;
+}
+.card{
+    background-color: grey;
+    font-family: fantasy;
+}
